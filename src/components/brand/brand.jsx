@@ -1,8 +1,8 @@
-import React from 'react'
+import React from 'react';
 import './brand.css';
 
-export const brand = () => {
+export const Brand = () => {
   return (
-    <div>brand</div>
+    <div>Brand</div>
   )
 }

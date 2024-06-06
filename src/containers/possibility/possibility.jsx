@@ -1,8 +1,8 @@
-import React from 'react'
+import React from 'react';
 import './possibility.css';
 
-export const possibility = () => {
+export const Possibility = () => {
   return (
-    <div>possibility</div>
+    <div>Possibility</div>
   )
 }

@@ -1,8 +1,8 @@
-import React from 'react'
+import React from 'react';
 import './feature.css';
 
-export const feature = () => {
+export const Feature = () => {
   return (
-    <div>feature</div>
+    <div>Feature</div>
   )
 }

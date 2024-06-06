@@ -1,8 +1,8 @@
-import React from 'react'
+import React from 'react';
 import './cta.css';
 
-export const cta = () => {
+export const Cta = () => {
   return (
-    <div>cta</div>
+    <div>Cta</div>
   )
 }
